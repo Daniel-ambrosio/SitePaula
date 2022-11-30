@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(184, 185, 187);
+}
+.titulo{
+    text-align: center;
+    font-family: Arial;
+    margin-top: 0;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 40px;
+     
+    
+}
+
+.sub1{
+    text-align: center;
+    font-family: Arial;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 40px;
+    width: 150px;    
+}
+.sub2{
+    text-align: center;
+    font-family: Arial;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 40px;
+    width: 423px; 
+}
+.sub3{
+    text-align: center;
+    font-family: Arial;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 40px;
+    width: 90px; 
+}
+
+p{
+    text-align: left;
+    padding-top: auto;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
